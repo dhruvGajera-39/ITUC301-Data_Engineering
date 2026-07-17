@@ -1,0 +1,10 @@
+DATA QUALITY REPORT
+===================
+
+Row 39: Invalid Phone Number
+Row 57: Invalid Phone Number
+Row 67: Invalid Phone Number
+Row 71: Invalid Phone Number
+Row 76: Invalid Phone Number
+Row 77: Invalid Phone Number
+customer2.csv moved to quarantine (CustomerID missing)
